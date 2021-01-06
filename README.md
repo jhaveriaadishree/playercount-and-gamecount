@@ -1,1 +1,2 @@
-# playercount-and-gamecount
+# synchronousBallMovement
+Ball moving synchronously
